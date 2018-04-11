@@ -1,3 +1,7 @@
+/**
+	First compile the program : gcc fork_search.cpp
+	Second run the program 	  : ./a.out filename(that contains comma seperated integers) number_to_search(eg. 3)
+**/
 #include<signal.h>
 #include<stdio.h>
 #include<unistd.h>
