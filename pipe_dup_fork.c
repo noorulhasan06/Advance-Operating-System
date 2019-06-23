@@ -1,3 +1,6 @@
+/**
+ * C program to use pipe and fork commands of Unix.
+ */
 #include <string.h> 
 #include <stdlib.h>
 #include <stdio.h>
