@@ -1,5 +1,6 @@
 /**
  * C program to illustrate the function of Unix alarm command.
+ * This line contains no information.
  */
 #include <sys/types.h>
 #include <syw/stat.h>
